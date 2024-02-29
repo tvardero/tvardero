@@ -11,6 +11,6 @@ Learns from time to time how to draw triangles with OpenGL.
 
 ## Contacts
 
-- LinkedIn: https://www.linkedin.com/in/tvardero/
-- Telegram (for work): https://t.me/v_tvard
-- Email: dont. Doesn't read emails. Really, is it year 2000?
+- **LinkedIn**: https://www.linkedin.com/in/tvardero/
+- **Telegram (for work)**: https://t.me/v_tvard
+- **Email**: dont. Doesn't read emails. Really, is it year 2000?
