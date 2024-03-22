@@ -6,11 +6,11 @@ In the flesh.
 
 ## What Da Dog Doin?
 
-C# developer, 2 yrs web development, want to escape the reality and start building his games.
+C# developer, 2 yrs web development, wants to escape the reality and start building his own games.
 Learns from time to time how to draw triangles with OpenGL.
 
 ## Contacts
 
 - **LinkedIn**: https://www.linkedin.com/in/tvardero/
 - **Telegram (for work)**: https://t.me/v_tvard
-- **Email**: dont. Doesn't read emails. Really, is it year 2000?
+- **Email**: dont. He doesn't read emails. Really, is it year 2000?
