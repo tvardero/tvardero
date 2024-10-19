@@ -12,5 +12,5 @@ Learns from time to time how to draw rainbow triangles with OpenGL.
 ## Contacts
 
 - **LinkedIn**: https://www.linkedin.com/in/tvardero/
-- **Telegram (for work)**: https://t.me/v_tvard
+- **Telegram (business)**: https://t.me/v_tvard . Do not write me on my personal account.
 - **Email**: dont. He doesn't read emails. Really, is it year 1990?
